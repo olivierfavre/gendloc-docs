@@ -12,7 +12,7 @@ PRESENTATION ECRAN
 
 .. raw:: html 
 
-   <video controls src="_static/essai.mp4"></video> 
+   <video controls width="600px" src="_static/essai.mp4"></video> 
 
 Menu couche
 
