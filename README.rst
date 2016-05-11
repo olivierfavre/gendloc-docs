@@ -32,7 +32,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 .. image :: docs/source/_static/gendloc.jpg
 
 Gestion des sdfgsdfg
-------------------------
+--------------------
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -43,7 +43,7 @@ cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 Gestion de la sdfg
------------------------
+------------------
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,

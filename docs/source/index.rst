@@ -1,20 +1,19 @@
-.. GendLoc documentation master file, created by
-   sphinx-quickstart on Mon May  9 11:34:13 2016.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
 Welcome to GendLoc's documentation!
 ===================================
 
 Contents:
+
+jhgggjhjhjgjgjgh
 
 .. toctree::
    :maxdepth: 2
 
    introduction
    presentation
+   auteur
+   changelog
 
-
+hkjhkj kjh khjhkjhkjhj
 
 Indices and tables
 ==================
