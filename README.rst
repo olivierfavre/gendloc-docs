@@ -1,7 +1,7 @@
 Documentation GendLoc
 =====================
 
-Application WEB de localisation requérant.
+Application WEB de localisation requérant bzzz.
 
 GeoNature est une application permettant d.
 
